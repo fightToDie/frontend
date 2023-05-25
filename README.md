@@ -1,2 +1,2 @@
 # frontend
-This is Nota's Front end Repository.
+This is a Nota's Front end Repository.
